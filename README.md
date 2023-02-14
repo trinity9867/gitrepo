@@ -1,2 +1,2 @@
 # gitrepo
-git basics
+Shelly Covington
